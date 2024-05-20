@@ -1,7 +1,7 @@
 # Advanced Object Oriented Programming Final Project
 Final Project requirement for Advanced Object Oriented Programming in BSU Alangilan
 
-# Helping Hands : Charity Donation for School system
+# Helping Hands : Charity Donation for School in need system
 This project is made using c# a windows form application in SharpDevelop and Windows 7  that is design for user to donate/buy school supplies for the chosen school of the user
 
 # Functionalities
